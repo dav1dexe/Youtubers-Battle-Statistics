@@ -1,4 +1,4 @@
-<h2>Youtubers Battle | Битва Ютуберов</h1>
+<h2>Битва Ютуберов</h1>
 
 ![alt text](https://tankionline.com/ru/wp-content/uploads/2022/01/youtuber_battle_2022_wide_1006_RU.jpg)
 
