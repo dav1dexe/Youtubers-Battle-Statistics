@@ -9,7 +9,7 @@
 
 🇺🇸<br>
 This repository stores the hourly statistics of the event "Youtubers Battle"<br>
-Statistics start at `30/01/2022 00:30 MSK`<br>
+Statistics start at `30/01/2022 21:30 UTC`<br>
 Statistics are up to date `12/02/2022 15:30 UTC`
 
 <br>
