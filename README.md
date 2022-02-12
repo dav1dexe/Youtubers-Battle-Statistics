@@ -8,7 +8,7 @@
 🇺🇸<br>
 This repository stores the hourly statistics of the event "Battle of Youtubers"<br>
 Statistics start at `30/01/2022 00:30 MSK`<br>
-Statistics are up to date `12/02/2022 17:00 MSK`
+Statistics are up to date `12/02/2022 17:00 UTC`
 
 <br>
 For the statistics thanks, Yarik.
